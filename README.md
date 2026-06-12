@@ -1,4 +1,3 @@
-# PASUPULETI VENKATA PADMA - GitHub README
 
 <h1 align="center">Hi 👋, I'm Pasupuleti Venkata Padma</h1>
 
