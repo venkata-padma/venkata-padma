@@ -46,9 +46,20 @@ UI/UX Designer passionate about creating simple, intuitive and user-friendly dig
 # Design Stack
 
 ## Design Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=figma,photoshop"/>
-</p>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,photoshop" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/FigJam-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Motion%20Design-7C3AED?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+
+</div>
+
+---
 
 ## Skills
 - User Interface Design
