@@ -152,14 +152,19 @@ UI/UX Designer passionate about creating simple, intuitive and user-friendly dig
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=venkata-padma&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=venkata-padma&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=venkata-padma&theme=tokyonight&no-frame=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkata-padma&layout=compact&theme=tokyonight"/>
 </p>
 
+---
+
+# GitHub Trophies
+
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=venkata-padma&theme=tokyo-night"/>
+<img src="https://github-profile-trophy.vercel.app/?username=venkata-padma&theme=tokyonight&no-frame=true&row=2&column=4"/>
 </p>
 
 ---
