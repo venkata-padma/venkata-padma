@@ -129,9 +129,21 @@ UI/UX Designer passionate about creating simple, intuitive and user-friendly dig
 # Experience
 
 ## UI/UX Intern
+### Sense Semiconductor and IT Solutions Pvt. Ltd.
+
+**June 2026 – Present**
+
+- Designing intuitive and user-centered interfaces for web and mobile applications.
+- Creating wireframes, user flows, and interactive prototypes to improve user experience.
+- Collaborating with developers and stakeholders to translate business requirements into effective design solutions.
+- Conducting usability evaluations and applying UX best practices to enhance accessibility and engagement.
+- Contributing to responsive design systems ensuring consistency across multiple devices and platforms.
+- Participating in design reviews, feedback sessions, and iterative product improvements.
+
+
 ### The Skill Guru Foundation (NGO)
 
-**Jan 2026 – Present**
+**Jan 2026 – May 2026**
 
 - Designing user-centered interfaces
 - Improving usability and accessibility
