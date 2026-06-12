@@ -1,16 +1,162 @@
-## Hi there 👋
+# PASUPULETI VENKATA PADMA - GitHub README
 
-<!--
-**venkata-padma/venkata-padma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Pasupuleti Venkata Padma</h1>
 
-Here are some ideas to get you started:
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6D28D9,50:7C3AED,100:A855F7&text=Pasupuleti%20Venkata%20Padma&fontSize=45&fontColor=ffffff"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=UI%2FUX+Designer;User+Centered+Design;Wireframing+%7C+Prototyping;Responsive+Design;Creating+Meaningful+Digital+Experiences"/>
+</div>
+
+---
+
+# About Me
+
+UI/UX Designer passionate about creating simple, intuitive and user-friendly digital experiences. Skilled in user research, wireframing, prototyping and responsive design.
+
+## Open To
+- UI/UX Internships
+- Product Design Roles
+- UX Research Projects
+- Design Collaborations
+- Freelance UI/UX Opportunities
+
+---
+
+# Design Stack
+
+## Design Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,photoshop"/>
+</p>
+
+## Skills
+- User Interface Design
+- User Experience Design
+- Wireframing
+- Prototyping
+- User Flows
+- Responsive Web Design
+- Design Systems
+
+---
+
+# UX Expertise
+
+| Domain | Proficiency | Details |
+|----------|-------------|----------|
+| UX Research | Advanced | Personas, Empathy Maps, User Flows |
+| UI Design | Advanced | High Fidelity Interfaces |
+| Wireframing | Advanced | End-to-End Product Flows |
+| Prototyping | Advanced | Interactive User Testing |
+| Responsive Design | Advanced | Mobile, Tablet, Desktop |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>LaundryHero – End-to-End UX Case Study</b></summary>
+
+| Category | Details |
+|-----------|---------|
+| Focus | Laundry Service Experience |
+| Research | Personas, Empathy Maps |
+| Design | Wireframes & High Fidelity UI |
+| Testing | Interactive Prototypes |
+| Impact | Simplified Service Booking |
+
+</details>
+
+<details>
+<summary><b>DROP – Minimal Streetwear Shopping App</b></summary>
+
+| Category | Details |
+|-----------|---------|
+| Focus | E-Commerce UX |
+| Design | Minimal Product-Centered Experience |
+| User Flow | Discovery to Checkout |
+| Consistency | Typography & Components |
+| Impact | Clear Shopping Experience |
+
+</details>
+
+<details>
+<summary><b>Furni – Responsive Furniture Shopping Platform</b></summary>
+
+| Category | Details |
+|-----------|---------|
+| Focus | Furniture E-Commerce |
+| Responsive | Mobile, Tablet & Desktop |
+| Design System | Grid & Auto Layout |
+| Experience | Premium Design Aesthetics |
+| Impact | Consistent Cross Device UX |
+
+</details>
+
+---
+
+# Experience
+
+## UI/UX Intern
+### The Skill Guru Foundation (NGO)
+
+**Jan 2026 – Present**
+
+- Designing user-centered interfaces
+- Improving usability and accessibility
+- Creating responsive web experiences
+- Applying UX principles to enhance engagement
+
+---
+
+# Certifications
+
+![UIUX](https://img.shields.io/badge/UI%2FUX%20Design-Tutedude-7C3AED?style=for-the-badge)
+![Accenture](https://img.shields.io/badge/Digital%20Skills-Accenture-A855F7?style=for-the-badge)
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=venkata-padma&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=venkata-padma&theme=tokyonight&no-frame=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=venkata-padma&theme=tokyo-night"/>
+</p>
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:pasupuletivenkatapadma@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="linkedin.com/in/venkata-padma-pasupuleti-18b0a8344">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="my-portfolio-j9wh.onrender.com ">
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+### "Designing experiences that are simple, meaningful and user-focused."
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:6D28D9,50:7C3AED,100:A855F7"/>
+</div>
