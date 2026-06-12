@@ -51,7 +51,7 @@ UI/UX Designer passionate about creating simple, intuitive and user-friendly dig
 
 <img src="https://skillicons.dev/icons?i=figma,photoshop" />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 <img src="https://img.shields.io/badge/FigJam-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
