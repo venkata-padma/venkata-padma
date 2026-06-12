@@ -10,6 +10,24 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=UI%2FUX+Designer;User+Centered+Design;Wireframing+%7C+Prototyping;Responsive+Design;Creating+Meaningful+Digital+Experiences"/>
 </div>
 
+<div align="center">
+
+![RGUKT](https://img.shields.io/badge/RGUKT-Ongole-7C3AED?style=for-the-badge)
+![CSE](https://img.shields.io/badge/Computer%20Science%20Engineering-4F46E5?style=for-the-badge)
+![CGPA](https://img.shields.io/badge/CGPA-9.0-A855F7?style=for-the-badge)
+![India](https://img.shields.io/badge/Prakasam%2CAP%2CIndia-4338CA?style=for-the-badge)
+
+</div>
+
+<div align="center">
+
+<a href="https://my-portfolio-j9wh.onrender.com"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel"/></a>
+<a href="https://www.linkedin.com/in/venkata-padma-pasupuleti-18b0a8344"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:pasupuletivenkatapadma@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/></a>
+<a href="https://github.com/venkata-padma"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/></a>
+
+</div>
+
 ---
 
 # About Me
@@ -143,11 +161,11 @@ UI/UX Designer passionate about creating simple, intuitive and user-friendly dig
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="linkedin.com/in/venkata-padma-pasupuleti-18b0a8344">
+<a href="https://www.linkedin.com/in/venkata-padma-pasupuleti-18b0a8344">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="my-portfolio-j9wh.onrender.com ">
+<a href="https://my-portfolio-j9wh.onrender.com">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge"/>
 </a>
 
