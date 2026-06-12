@@ -168,6 +168,22 @@ UI/UX Designer passionate about creating simple, intuitive and user-friendly dig
 
 ---
 
+# Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=venkata-padma&theme=tokyo-night"/>
+</p>
+
+---
+
+# Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
 # Connect
 
 <div align="center">
