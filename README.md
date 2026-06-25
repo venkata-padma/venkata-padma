@@ -141,7 +141,7 @@ UI/UX Designer passionate about creating simple, intuitive and user-friendly dig
 - Participating in design reviews, feedback sessions, and iterative product improvements.
 
 
-### The Skill Guru Foundation (NGO)
+### Parmelee Cargo Matters Logistic Solutions Pvt. Ltd.
 
 **Jan 2026 – May 2026**
 
